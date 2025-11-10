@@ -1,0 +1,81 @@
+Berdasarkan kedua roadmap Anda, ini fase belajar yang terstruktur:
+
+🎯 FASE 1: FONDASI (Bulan 1-3)
+
+Skill Wajib:
+
+· Python + Bash Scripting
+· Git & GitHub
+· Linux & Terminal
+· Docker Basics
+· ML Fundamentals + Scikit-learn
+
+Project:
+
+Deploy model sederhana pakai Docker + REST API
+
+---
+
+🚀 FASE 2: DEVOPS FOR MLOPS (Bulan 4-6)
+
+Skill Wajib:
+
+· Kubernetes Fundamentals
+· CI/CD (GitHub Actions/GitLab CI)
+· Terraform Basics
+· 1 Cloud Provider (AWS/Azure/GCP)
+· Go Programming Basics
+
+Project:
+
+Setup CI/CD pipeline + deploy ke Kubernetes
+
+---
+
+🤖 FASE 3: MLOPS CORE (Bulan 7-9)
+
+Skill Wajib:
+
+· MLflow (Experiment Tracking & Registry)
+· Apache Airflow (Workflow Orchestration)
+· Model Serving (KServe/Seldon Core)
+· Spark untuk Data Processing
+
+Project:
+
+Bangun complete MLOps pipeline dengan monitoring
+
+---
+
+📊 FASE 4: PRODUCTION GRADE (Bulan 10-12)
+
+Skill Wajib:
+
+· Feature Store (Feast)
+· Monitoring (Prometheus + Grafana + Evidently AI)
+· Data Versioning (DVC)
+· Advanced Kubernetes
+
+Project:
+
+End-to-end production system dengan monitoring & auto-retraining
+
+---
+
+⚡ YANG BOLEH DIABAIKAN DULU:
+
+· Ruby, Rust, JavaScript
+· BSD, Windows administration
+· Email protocols (SMTP, IMAP)
+· Service Mesh (Istio, Consul)
+· Legacy tools (FTP)
+
+---
+
+💡 STRATEGI:
+
+Belajar paralel - Setiap fase kombinasi DevOps + ML skill
+Project-based- Langsung praktik setelah belajar teori
+Fill gaps- Perdalam skill hanya ketika mentok di project
+
+Fokus 9 skill pertama dulu, sisanya menyusul!
