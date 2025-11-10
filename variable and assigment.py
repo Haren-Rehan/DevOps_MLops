@@ -42,6 +42,10 @@ a = "ABX"
 print("now, variable a has value", a, "and type", type(a))
 print("\n","="*20)
 
+a = 1.20
+print(type(a))
+
+
 
 
 
