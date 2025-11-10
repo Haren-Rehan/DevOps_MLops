@@ -1,8 +1,3 @@
-1 hari 1x saya akan mengupload hasil belajar saya: 
-- fundamental python
-- bash scripting
-- docker
-- scikit-learn
-- linux
-- fundamental ml
+1 hari 1x saya akan mengupload hasil belajar saya,
+dan akan mejeleskannya
 dan lainnya yang akan mendatang
